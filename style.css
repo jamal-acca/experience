@@ -354,10 +354,7 @@ section {
 article {
   display: flex;
   width: 10rem;
-  justify-content: space-around;
-  text-align: left; 
-  padding-left: 0; 
-  margin-left: 0;
+  justify-content: flex-start;
   gap: 0.5rem;
 }
 
