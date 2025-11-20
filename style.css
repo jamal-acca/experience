@@ -66,6 +66,7 @@ a:hover {
 
 .logo:hover {
   color: black;
+  cursor: pointer;
   text-underline-offset: 1rem;
 }
 
