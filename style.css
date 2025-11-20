@@ -65,7 +65,8 @@ a:hover {
 }
 
 .logo:hover {
-  cursor: default;
+  color: black;
+  text-underline-offset: 1rem;
 }
 
 /* HAMBURGER MENU */
