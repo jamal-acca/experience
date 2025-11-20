@@ -8,8 +8,7 @@
 }
 
 body {
-  /*font-family: "Poppins", sans-serif;*/
-  font-family: 'League Spartan', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 html {
@@ -62,8 +61,7 @@ a:hover {
 .logo {
   font-size: 2rem;
   font-weight: bold;
-  font-family: 'League Spartan', sans-serif;
-  /*font-weight: 700;  For bold text */
+  font-family: 'League Spartan', sans-serif !important;
 }
 
 .logo:hover {
