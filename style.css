@@ -28,6 +28,11 @@ a,
 
 /* DESKTOP NAV */
 
+#desktop-nav{
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
 nav,
 .nav-links {
   display: flex;
@@ -62,6 +67,9 @@ a:hover {
   font-size: 2rem;
   font-weight: bold;
   font-family: 'League Spartan', sans-serif !important;
+  text-decoration: underline;
+  text-underline-offset: 1rem;
+  text-decoration-color: rgb(181, 181, 181);
 }
 
 .logo:hover {
