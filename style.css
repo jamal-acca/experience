@@ -67,14 +67,14 @@ a:hover {
   font-size: 2rem;
   font-weight: bold;
   font-family: 'League Spartan', sans-serif !important;
-  text-decoration: underline;
-  text-underline-offset: 1rem;
-  text-decoration-color: rgb(181, 181, 181);
 }
 
 .logo:hover {
   color: black;
   cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 1rem;
+  text-decoration-color: rgb(181, 181, 181);
 }
 
 /* HAMBURGER MENU */
