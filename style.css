@@ -81,6 +81,8 @@ a:hover {
 
 #hamburger-nav {
   display: none;
+  margin-left: 1rem;
+  margin-right: 1rem;
 }
 
 .hamburger-menu {
